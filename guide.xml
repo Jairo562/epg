@@ -1,0 +1,1119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL CLARO">
+    <display-name lang="es">CANAL CLARO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7c4b9e8566a6e867d1db4c7ce845f1f4.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL CLARO HD">
+    <display-name lang="es">CANAL CLARO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL UNO">
+    <display-name lang="es">CANAL UNO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a2d0f68ee68dbcdd6e5345e510f094e0.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL CARACOL">
+    <display-name lang="es">CANAL CARACOL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DIA TV">
+    <display-name lang="es">DIA TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e4dd778bd580b2c66349e966814eabcf.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL RCN">
+    <display-name lang="es">CANAL RCN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/12b8dd9582417980e6d4d2f75a48f79e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EL TIEMPO TELEVISION">
+    <display-name lang="es">EL TIEMPO TELEVISION</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/163308ec0dceca207789ffb3afc68342.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VMAS-TV">
+    <display-name lang="es">VMAS-TV</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CITY TV">
+    <display-name lang="es">CITY TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e3eeba8d30ab4a97d02ac17a916f1f1a.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL INSTITUCIONAL">
+    <display-name lang="es">CANAL INSTITUCIONAL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ec1af6e4bf801b6b3646447296831ba9.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL CAPITAL">
+    <display-name lang="es">CANAL CAPITAL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/2d51fb834df39d9c4e93ab291ebfb44e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELEANTIOQUIA">
+    <display-name lang="es">TELEANTIOQUIA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/f9f5f876d968707b89b70190626edfc0.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELECARIBE">
+    <display-name lang="es">TELECARIBE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7eab0134ef8ed03eb2d59b77711cbd98.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELEPACIFICO">
+    <display-name lang="es">TELEPACIFICO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/699af5aa4249ba7085bf0724f13a0ece.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL 13">
+    <display-name lang="es">CANAL 13</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/482b239ede3b51cf882e43980a3f5a67.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TRO">
+    <display-name lang="es">TRO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a292e954bde8a0af30ccf2d36913e03e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELECAFE">
+    <display-name lang="es">TELECAFE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b3aef974216995f45cbb271e6be36964.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL DEL CONGRESO">
+    <display-name lang="es">CANAL DEL CONGRESO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/9e9490d752c964aad96e6f14d9f1967f.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="COSMOVISION">
+    <display-name lang="es">COSMOVISION</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e91f1842402d1a4a643eb88fa4225b13.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ZOOM TV">
+    <display-name lang="es">ZOOM TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/c6f14090e3551eb7ef004748f99e38e9.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SENAL COLOMBIA">
+    <display-name lang="es">SENAL COLOMBIA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b705921bf5037497005d9bed101f0b5c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/665b47f011091cbf86a95347a06287a4.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO MUSICA LADO A">
+    <display-name lang="es">CLARO MUSICA LADO A</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/5196ff66142aa534974e07e0d9cdf9f4.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO MUSICA LADO B">
+    <display-name lang="es">CLARO MUSICA LADO B</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/faa10977fd3cd322751f3b730aef285f.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/0a8883d0907d71bea759e1c677f67a27.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="RADIOLA TV">
+    <display-name lang="es">RADIOLA TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/c2d6b856c3d7db1d49c26d882e97234c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MTV HITS">
+    <display-name lang="es">MTV HITS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="es">VH1 CLASSIC</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELEHIT">
+    <display-name lang="es">TELEHIT</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="RITMOSON">
+    <display-name lang="es">RITMOSON</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="es">DISCOVERY KIDS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/4efef43a17433086bed169ef59cb0a20.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="es">DISNEY XD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/15f8bfdab723778dce3f8958c07fe82e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="es">CARTOON NETWORK</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/f9b42091a74d26d6e1bd799b6e095755.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="es">DISNEY CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/1a36f8f6af5180820fa16aa33b8868a3.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="es">DISNEY JUNIOR</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3272cb290727763a50ce5df709e8525.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="es">NICKELODEON</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/1954b4770f6500fdb8cbe8abe93f4aff.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7db8ba8bda2cee37aa10d7b3153db8df.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="es">BOOMERANG</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="es">TOONCAST</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="es">DISCOVERY CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/4b1b9d6293a4a26b002be3951242466c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e1901e14959703c4788d038049ae75bf.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION">
+    <display-name lang="es">DISCOVERY CIVILIZATION</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="es">ANIMAL PLANET</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HISTORY CHANNEL">
+    <display-name lang="es">HISTORY CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/46ddf8dfb4cfd185bc98ebfbb0eb77df.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/6fc1df75e9a2e16bc6b1315f1967c5d5.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY TURBO">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a5e35d719db894deb5f619e9e57e662f.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="WOBI">
+    <display-name lang="es">WOBI</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/1e053cfb6b0a51e8dff813212cd5b48e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="es">NAT GEO WILD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/9e5c910092f1180c0c28401bf0c6bb16.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TV AGRO">
+    <display-name lang="es">TV AGRO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/aa6e0fc72ff5c52e9b1338f308668acd.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TV AGRO HD">
+    <display-name lang="es">TV AGRO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY HOME &amp; HEALTH">
+    <display-name lang="es">DISCOVERY HOME &amp; HEALTH</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e52177f343f0b6ebe8568a5321834fa3.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EL GOURMET">
+    <display-name lang="es">EL GOURMET</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/3d587aab6489d44cb6b459a58dc0f30c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MUNDO FOX">
+    <display-name lang="es">MUNDO FOX</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAS CHIC">
+    <display-name lang="es">MAS CHIC</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GLITZ">
+    <display-name lang="es">GLITZ</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/64d0f61a8695a747d9185604df1d46ad.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT">
+    <display-name lang="es">E! ENTERTAINMENT</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/14d3b6b92e807996c23b6cbae5381377.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="es">LIFETIME</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/49d9fdc2cd8861ae7c3cba2cf2785f2c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="es">TRU TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b83ea25c803f7b5f8364f268a692c44e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TRU TV HD">
+    <display-name lang="es">TRU TV HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL DE LAS ESTRELLAS">
+    <display-name lang="es">CANAL DE LAS ESTRELLAS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/41048e75696b1aa753fd54672da94b7a.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TL NOVELAS">
+    <display-name lang="es">TL NOVELAS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/2a22c1e25c79ffd87f94b3ab4cf18099.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VE PLUS TV">
+    <display-name lang="es">VE PLUS TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/96385c9f324e21eb9c61725f8342e10a.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AZMUNDO">
+    <display-name lang="es">AZMUNDO</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="RCN TELENOVELAS">
+    <display-name lang="es">RCN TELENOVELAS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/cdf1a775cb185ad73ea6bc1c841a1481.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELEMUNDO">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e4034e617013f704ab0bff1e96873598.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PASIONES">
+    <display-name lang="es">PASIONES</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/3899a36e96054fdbe450d030d4203d75.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX NEWS">
+    <display-name lang="es">FOX NEWS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HEADLINE NEWS">
+    <display-name lang="es">HEADLINE NEWS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CNN INTERNACIONAL">
+    <display-name lang="es">CNN INTERNACIONAL</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CNN EN ESPANOL">
+    <display-name lang="es">CNN EN ESPANOL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e717370571f40d3a034032dd33f4f6ef.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="es">BLOOMBERG</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DATA IFX">
+    <display-name lang="es">DATA IFX</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EURONEWS">
+    <display-name lang="es">EURONEWS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NTN 24">
+    <display-name lang="es">NTN 24</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/1337ac8d45711ca3591d5a03b2c1a70c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CABLE NOTICIAS">
+    <display-name lang="es">CABLE NOTICIAS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b5541f3f9e643c4341f0e0e6382a049f.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="es">TVE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="es">RAI</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TV5">
+    <display-name lang="es">TV5</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BBC WORLD">
+    <display-name lang="es">BBC WORLD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DW-TV">
+    <display-name lang="es">DW-TV</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DW AMERICA">
+    <display-name lang="es">DW AMERICA</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ANTENA 3">
+    <display-name lang="es">ANTENA 3</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CARACOL INTERNACIONAL">
+    <display-name lang="es">CARACOL INTERNACIONAL</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NUESTRA TELE">
+    <display-name lang="es">NUESTRA TELE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ARIRANG">
+    <display-name lang="es">ARIRANG</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="\tALJAZEERA\t ">
+    <display-name lang="es">\tALJAZEERA\t </display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO SPORTS COLOMBIA">
+    <display-name lang="es">CLARO SPORTS COLOMBIA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/60616cd327b336b6ca9866d2deb70339.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO SPORTS">
+    <display-name lang="es">CLARO SPORTS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLF CHANNEL">
+    <display-name lang="es">GOLF CHANNEL</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/6cc3ecca3ed83d34e43b1e1dcf99a141.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/6705f004ad5db2f5d45b249c237e4c86.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN3">
+    <display-name lang="es">ESPN3</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/0f65d0abe134625c755ed2a9200295ef.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="es">FOX SPORTS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d22b06d9f5adfa58226f62a90d0049fd.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="es">FOX SPORTS 2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e727ad25dc8c922d78ca2645cf0fccba.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name lang="es">FOX SPORTS 3</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/33a9a5e1b0d1778d8d5007277f5e0c74.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOL TV">
+    <display-name lang="es">GOL TV</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TYC SPORTS">
+    <display-name lang="es">TYC SPORTS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="WIN SPORTS">
+    <display-name lang="es">WIN SPORTS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/c012acbd85a9da37f1fe11d431acdfbf.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="WARNER CHANNEL">
+    <display-name lang="es">WARNER CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/883622cc06dd83ff31ef053fa09b8118.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/941527e6e4647a9ebc7ae1cf0ae278c5.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SONY">
+    <display-name lang="es">SONY</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/db1100c4ac8aa4c3adc27831b75cb3cd.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="es">ID</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/672e701c0e423f329160ffc14c5e0281.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SERIES">
+    <display-name lang="es">FOX SERIES</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e44eaed1cad5e7b02405f201dd881848.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d78215557a9f4b2c9cea5bfaa03c1936.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="es">FOX LIFE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/8bdc5e4899545c266a5385a08a794bdf.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7b5b2baa8235a49bdcd13d68f77f4869.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TNT SERIES">
+    <display-name lang="es">TNT SERIES</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/34eb300eabbd4746ea27003159295bfc.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="es">TBS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/711d1dec8683f831b8626da9d1f04c2f.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="es">COMEDY CENTRAL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/77647c36b29104f3c8dadef41c966765.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PPV-01">
+    <display-name lang="es">PPV-01</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/84ee3477a87f440555543d28f991e255.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PPV-02">
+    <display-name lang="es">PPV-02</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/9abe7907b35251d9939645e6e9648dd5.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PPV-03">
+    <display-name lang="es">PPV-03</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4d3e8050c60c1a28e1cfbe5dab9b7ad.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PENTHOUSE">
+    <display-name lang="es">PENTHOUSE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/9c697c157e2839e9863203d586c8fa5b.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BRAZZERS">
+    <display-name lang="es">BRAZZERS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/4eab5cfc709bf47abcad631d4a39f97e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SEXTREME">
+    <display-name lang="es">SEXTREME</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ab5c9bb416a9849607b0cb5129a2d557.png" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PLAYBOY">
+    <display-name lang="es">PLAYBOY</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/4f72b691a357154cd8422d7e25914a7d.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PLAYBOY HD">
+    <display-name lang="es">PLAYBOY HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/2199e3cf82c4dee06fa2ca471c42a199.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VENUS">
+    <display-name lang="es">VENUS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7da88de930f588eca3d958cc660afad2.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="THE FILM ZONE">
+    <display-name lang="es">THE FILM ZONE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/62cc491e9d82f8e70a8a69f01ade2e8c.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/5e8b791086401ce466de03ef4ca718c1.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/509edab335d35ea52d40bee0b2ac1ee7.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ISAT">
+    <display-name lang="es">ISAT</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/67d8046a662a685bf76e023583b6c355.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINEMAX OESTE">
+    <display-name lang="es">CINEMAX OESTE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/fd62844ce000674c5a623f8fd5c8a6c2.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/48686f19115f985fb0965058d223af08.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MULTIPREMIER">
+    <display-name lang="es">MULTIPREMIER</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/0bfce6d3ebc32f40c5494caac78c182a.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINE LATINO">
+    <display-name lang="es">CINE LATINO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e2642160e46fdc1ef395ce104a33755e.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EUROCHANNEL">
+    <display-name lang="es">EUROCHANNEL</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DE PELICULA">
+    <display-name lang="es">DE PELICULA</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINEMA +">
+    <display-name lang="es">CINEMA +</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/121b52abe2c7f914dbb6eabfcbe451ec.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINECANAL OESTE">
+    <display-name lang="es">CINECANAL OESTE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d416a6095b820ad1a9e7d365b1fdc462.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINEMA DINAMITA">
+    <display-name lang="es">CINEMA DINAMITA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/9fdb37cc40a49073a45eb5413b76f030.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PARAMOUNT">
+    <display-name lang="es">PARAMOUNT</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/278b181d0e7cf53a993f55a189d75c48.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO CINEMA">
+    <display-name lang="es">CLARO CINEMA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/0c015b7501a39179c427487545ec3d4a.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO ESTE">
+    <display-name lang="es">HBO ESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO PLUS ESTE">
+    <display-name lang="es">HBO PLUS ESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="es">MAX</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO FAMILY ESTE">
+    <display-name lang="es">HBO FAMILY ESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="es">HBO SIGNATURE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO PLUS OESTE">
+    <display-name lang="es">HBO PLUS OESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX PRIME ESTE">
+    <display-name lang="es">MAX PRIME ESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX PRIME OESTE">
+    <display-name lang="es">MAX PRIME OESTE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX SD">
+    <display-name lang="es">MAX SD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+1ES">
+    <display-name lang="es">FOX+1ES</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+1OE">
+    <display-name lang="es">FOX+1OE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+FAE">
+    <display-name lang="es">FOX+FAE</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="es">FOX MOVIES</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+FAO">
+    <display-name lang="es">FOX+FAO</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX CLASSICS">
+    <display-name lang="es">FOX CLASSICS</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+ACT">
+    <display-name lang="es">FOX+ACT</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX CINEMA">
+    <display-name lang="es">FOX CINEMA</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX+COM">
+    <display-name lang="es">FOX+COM</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/c597bffff7f2c1f5ff3fabb32f0bbefd.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EL SEMBRADOR">
+    <display-name lang="es">EL SEMBRADOR</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/d6b101041861460cb855113a186c57d8.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CRISTOVISION">
+    <display-name lang="es">CRISTOVISION</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/366c73dea826fbf4aa30be0ad0f81841.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TELEAMIGA">
+    <display-name lang="es">TELEAMIGA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/48c195c2fa54fcf5fc85b7236cb3205b.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ENLACE">
+    <display-name lang="es">ENLACE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ca03a2d8e3803c4c0348a070d67419c0.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DIA TV HD">
+    <display-name lang="es">DIA TV HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CARACOL HD">
+    <display-name lang="es">CARACOL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="RCN HD">
+    <display-name lang="es">RCN HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL INSTITUCIONAL HD">
+    <display-name lang="es">CANAL INSTITUCIONAL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SENAL COLOMBIA HD">
+    <display-name lang="es">SENAL COLOMBIA HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CANAL UNO HD">
+    <display-name lang="es">CANAL UNO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="es">MTV HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="es">VH1 HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MTV LIVE HD">
+    <display-name lang="es">MTV LIVE HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CONCERT CHANNEL HD">
+    <display-name lang="es">CONCERT CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD">
+    <display-name lang="es">DISCOVERY KIDS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="es">CARTOON NETWORK HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISNEY HD">
+    <display-name lang="es">DISNEY HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NICK HD">
+    <display-name lang="es">NICK HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NICKELODEON HD">
+    <display-name lang="es">NICKELODEON HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISC. HD THEATER">
+    <display-name lang="es">DISC. HD THEATER</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD">
+    <display-name lang="es">DISCOVERY WORLD HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="es">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="es">ANIMAL PLANET HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HISTORY CHANNEL HD">
+    <display-name lang="es">HISTORY CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NATGEO HD">
+    <display-name lang="es">NATGEO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="NAT GEO WILD HD">
+    <display-name lang="es">NAT GEO WILD HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DISCOVERY HOME &amp; HEALTH HD">
+    <display-name lang="es">DISCOVERY HOME &amp; HEALTH HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="EL GOURMET HD">
+    <display-name lang="es">EL GOURMET HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MUNDO FOX HD">
+    <display-name lang="es">MUNDO FOX HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="BBC HD">
+    <display-name lang="es">BBC HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HOLA! TV HD">
+    <display-name lang="es">HOLA! TV HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MASCHIC HD">
+    <display-name lang="es">MASCHIC HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AZ MUNDO HD">
+    <display-name lang="es">AZ MUNDO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PASIONES HD">
+    <display-name lang="es">PASIONES HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CABLENOTICIAS HD">
+    <display-name lang="es">CABLENOTICIAS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO SPORTS COLOMBIA HD">
+    <display-name lang="es">CLARO SPORTS COLOMBIA HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CLARO SPORTS HD">
+    <display-name lang="es">CLARO SPORTS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLF CHANNEL HD">
+    <display-name lang="es">GOLF CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="UFC HD">
+    <display-name lang="es">UFC HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="es">ESPN HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN+">
+    <display-name lang="es">ESPN+</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ESPN3 HD">
+    <display-name lang="es">ESPN3 HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="es">FOX SPORTS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="es">FOX SPORTS 2 HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX SPORTS 3 HD">
+    <display-name lang="es">FOX SPORTS 3 HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLTV HD">
+    <display-name lang="es">GOLTV HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TYC HD">
+    <display-name lang="es">TYC HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="WIN SPORTS HD">
+    <display-name lang="es">WIN SPORTS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="es">WARNER CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SONY HD">
+    <display-name lang="es">SONY HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="ID HD">
+    <display-name lang="es">ID HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="es">FOX HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="UNIVERSAL HD">
+    <display-name lang="es">UNIVERSAL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SUNDANCE CHANNEL HD">
+    <display-name lang="es">SUNDANCE CHANNEL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="es">FX HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="A&amp;E MUNDO HD">
+    <display-name lang="es">A&amp;E MUNDO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TNT SERIES HD">
+    <display-name lang="es">TNT SERIES HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="es">COMEDY CENTRAL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="es">TNT HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="THE FILM ZONE HD">
+    <display-name lang="es">THE FILM ZONE HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="es">SPACE HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="DHE HD">
+    <display-name lang="es">DHE HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLDEN PREMIER HD">
+    <display-name lang="es">GOLDEN PREMIER HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="GOLDEN HD">
+    <display-name lang="es">GOLDEN HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CINE CANAL HD">
+    <display-name lang="es">CINE CANAL HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="PARAMOUNT HD">
+    <display-name lang="es">PARAMOUNT HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="es">HBO HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX UP HD">
+    <display-name lang="es">MAX UP HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO PLUS HD">
+    <display-name lang="es">HBO PLUS HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="es">HBO 2 HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="es">HBO FAMILY HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="es">HBO SIGNATURE HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="MAX PRIME HD">
+    <display-name lang="es">MAX PRIME HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX HD2">
+    <display-name lang="es">FOX HD2</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX FAMILY HD">
+    <display-name lang="es">FOX FAMILY HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX MOVIES HD">
+    <display-name lang="es">FOX MOVIES HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX ACTION HD">
+    <display-name lang="es">FOX ACTION HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="FOX COMEDY HD">
+    <display-name lang="es">FOX COMEDY HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="Az Clic">
+    <display-name lang="es">Az Clic</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Corazón">
+    <display-name lang="es">Az Corazón</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Azteca 7 HD">
+    <display-name lang="es">Azteca 7 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 5 HD">
+    <display-name lang="es">Canal 5 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Tlnovelas">
+    <display-name lang="es">Tlnovelas</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AMÉRICA">
+    <display-name lang="es">AMÉRICA</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="El Trece">
+    <display-name lang="es">El Trece</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Canal 9">
+    <display-name lang="es">Canal 9</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ESTRELLAS HD">
+    <display-name lang="es">ESTRELLAS HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="es">Venus</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="es">Playboy TV</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="BRAZZERS TV">
+    <display-name lang="es">BRAZZERS TV</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.reportvMulti.com.ar</url>
+  </channel>
+</tv>
