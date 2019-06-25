@@ -5,7 +5,7 @@
     <icon src="http://181.30.4.186/buscador/img/Logos/766833.gif" />
     <url>http://www.reportvMulti.com.ar</url>
   </channel>
-  <programme start="20190625000000 -0400" stop="20190625010000 -0400" channel="CARACOL">
+  <programme start="20190625000000 -0500" stop="20190625010000 -0500" channel="CARACOL">
     <title lang="es">El rastro</title>
     <desc lang="es">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira. Relatos que darán a conocer la cara del crimen a través de los nervios y la tensión, así como el testimonio de los asesinos y un rostro real de quienes son capaces de cometer tan atroces actos(n)</desc>
     <credits>
@@ -19,7 +19,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1093997.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625010000 -0400" stop="20190625013000 -0400" channel="CARACOL">
+  <programme start="20190625010000 -0500" stop="20190625013000 -0500" channel="CARACOL">
     <title lang="es">Entérate</title>
     <desc lang="es">En cada emisión, Darío Arizmendi recibe a diversos invitados especiales para hablar sobre temas relacionados a las principales problemáticas presentes en Colombia y América Latina en general, tratando contenidos sobre política, economía, educación y muchos otros(n)</desc>
     <credits>
@@ -32,7 +32,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2641700.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625013000 -0400" stop="20190625020000 -0400" channel="CARACOL">
+  <programme start="20190625013000 -0500" stop="20190625020000 -0500" channel="CARACOL">
     <title lang="es">Caracol cine</title>
     <desc lang="es">Un espacio en el que los amantes del séptimo arte conocerán más información de su interés en secciones como Estrenos, Detrás de cámaras, Invitados de películas, Nuestra memoria, El Error de película y Cine tricolor, en la que se expondrán contenidos nacionales(n)</desc>
     <date>2000</date>
@@ -42,7 +42,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648686.JPG" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625020000 -0400" stop="20190625030000 -0400" channel="CARACOL">
+  <programme start="20190625020000 -0500" stop="20190625030000 -0500" channel="CARACOL">
     <title lang="es">Tu voz estéreo</title>
     <desc lang="es">Eespacio en el que convergen relatos de amor, de despecho, conflictos juveniles y familiares(n)</desc>
     <credits>
@@ -61,10 +61,10 @@
     <category lang="es">Series</category>
     <category lang="es">Telenovela
  Transmisión:</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4440971.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4440955.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625030000 -0400" stop="20190625033000 -0400" channel="CARACOL">
+  <programme start="20190625030000 -0500" stop="20190625033000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -79,7 +79,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625033000 -0400" stop="20190625040000 -0400" channel="CARACOL">
+  <programme start="20190625033000 -0500" stop="20190625040000 -0500" channel="CARACOL">
     <title lang="es">Testigo directo</title>
     <desc lang="es">Magazín periodístico independiente de crónicas y reportajes que se desarrollan principalmente en Colombia. Periodismo ameno de la más alta calidad con reportajes de nuestra región y personajes insólitos, positivos, divertidos que se encuentran a lo largo de todo el territorio nacional(n)</desc>
     <credits>
@@ -89,10 +89,10 @@
     <category lang="es">Periodístico</category>
     <category lang="es">Periodístico
  Transmisión:</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4315127.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/686875.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625040000 -0400" stop="20190625041500 -0400" channel="CARACOL">
+  <programme start="20190625040000 -0500" stop="20190625041500 -0500" channel="CARACOL">
     <title lang="es">La finca de hoy</title>
     <desc lang="es">Todas las semanas te damos un paseo por la agricultura colombiana, conociendo la biodiversidad de sus suelos, técnicas de producción, razas de animales, y hasta cómo mantener un hermoso jardín en nuestras casas(n)</desc>
     <credits>
@@ -104,7 +104,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/239649.gif" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625041500 -0400" stop="20190625043000 -0400" channel="CARACOL">
+  <programme start="20190625041500 -0500" stop="20190625043000 -0500" channel="CARACOL">
     <title lang="es">Día a día I</title>
     <desc lang="es">Espacio para comenzar la jornada de una manera divertida y relajada. El hilo conductor es el optimismo que logra contagiar a todos aquellos que al encender su pantalla encuentran una alternativa de entretenimiento diferente(n)</desc>
     <credits>
@@ -125,7 +125,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/239603.gif" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625043000 -0400" stop="20190625073000 -0400" channel="CARACOL">
+  <programme start="20190625043000 -0500" stop="20190625073000 -0500" channel="CARACOL">
     <title lang="es">Noticias 5:30 Caracol</title>
     <desc lang="es">Lo último de la actualidad colombiana y mundial usted podrá conocer en esta edición informativa, con reportajes, notas exclusivas, entrevistas y comentarios de la mano de un equipo de profesionales(n)</desc>
     <date>2000</date>
@@ -134,7 +134,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4907960.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625073000 -0400" stop="20190625093000 -0400" channel="CARACOL">
+  <programme start="20190625073000 -0500" stop="20190625093000 -0500" channel="CARACOL">
     <title lang="es">Día a día II</title>
     <desc lang="es">Espacio para comenzar la jornada de una manera divertida y relajada. El hilo conductor es el optimismo que logra contagiar a todos aquellos que al prender el televisor encuentran una alternativa de entretenimiento diferente(n)</desc>
     <credits>
@@ -149,7 +149,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2680954.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625093000 -0400" stop="20190625100000 -0400" channel="CARACOL">
+  <programme start="20190625093000 -0500" stop="20190625100000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -163,7 +163,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625100000 -0400" stop="20190625110000 -0400" channel="CARACOL">
+  <programme start="20190625100000 -0500" stop="20190625110000 -0500" channel="CARACOL">
     <title lang="es">Tu voz estéreo</title>
     <desc lang="es">Eespacio en el que convergen relatos de amor, de despecho, conflictos juveniles y familiares(n)</desc>
     <credits>
@@ -181,10 +181,10 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4440963.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4440971.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625110000 -0400" stop="20190625113000 -0400" channel="CARACOL">
+  <programme start="20190625110000 -0500" stop="20190625113000 -0500" channel="CARACOL">
     <title lang="es">¿Qué hay?</title>
     <desc lang="es">Un espacio que busca contar historias fuera de lo común desde diferentes partes del mundo como Japón, México, Chile, Estados Unidos y Colombia(n)</desc>
     <credits>
@@ -197,7 +197,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2978517.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625113000 -0400" stop="20190625140000 -0400" channel="CARACOL">
+  <programme start="20190625113000 -0500" stop="20190625140000 -0500" channel="CARACOL">
     <title lang="es">Noticias Caracol 12:30 p. m.</title>
     <desc lang="es">Espacio de carácter periodístico que muestra los acontecimientos en desarrollo, con reportes en vivo. Los presentadores interactúan con varias informaciones al mismo tiempo. Además, presenta una sección con lo más comentado en las redes sociales y de salud, así como detalles deportivos y de entretenimiento(n)</desc>
     <credits>
@@ -214,7 +214,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4338190.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625140000 -0400" stop="20190625150000 -0400" channel="CARACOL">
+  <programme start="20190625140000 -0500" stop="20190625150000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
@@ -222,7 +222,7 @@
  Transmisión:</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625150000 -0400" stop="20190625160000 -0400" channel="CARACOL">
+  <programme start="20190625150000 -0500" stop="20190625160000 -0500" channel="CARACOL">
     <title lang="es">El rastro</title>
     <desc lang="es">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira. Relatos que darán a conocer la cara del crimen a través de los nervios y la tensión, así como el testimonio de los asesinos y un rostro real de quienes son capaces de cometer tan atroces actos(n)</desc>
     <credits>
@@ -236,7 +236,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1093997.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625160000 -0400" stop="20190625163000 -0400" channel="CARACOL">
+  <programme start="20190625160000 -0500" stop="20190625163000 -0500" channel="CARACOL">
     <title lang="es">Caracol cine</title>
     <desc lang="es">Un espacio en el que los amantes del séptimo arte conocerán más información de su interés en secciones como Estrenos, Detrás de cámaras, Invitados de películas, Nuestra memoria, El Error de película y Cine tricolor, en la que se expondrán contenidos nacionales(n)</desc>
     <date>2000</date>
@@ -246,7 +246,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648686.JPG" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625163000 -0400" stop="20190625170000 -0400" channel="CARACOL">
+  <programme start="20190625163000 -0500" stop="20190625170000 -0500" channel="CARACOL">
     <title lang="es">Travesía</title>
     <desc lang="es">Producción llena de adrenalina, aventura y vértigo, que lo sacará de lo convencional y lo incitará a vivir emociones que lo llevarán al límite. Mediante esta producción conocerá gran parte de la geografía colombiana recorriendo todo tipo de destinos, desde los más apartados hasta los más paradisíacos. Recibirá una guía clara de las actividades que se pueden realizar y de las empresas que lo pueden llevar a vivir este tipo de experiencias. Además, lo acercará a una Colombia que tiene mucho por descubrir. Asimismo, recorrerá países de América en expediciones que muestran los lugares más importantes y representativos de cada cultura. Nuestros presentadores se encargarán de recrear las tradiciones, de mostrar la cara de los colombianos en otras partes del mundo y de vivir las mejores experiencias como visitantes en cada destino(n)</desc>
     <credits>
@@ -258,7 +258,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1086368.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625170000 -0400" stop="20190625180000 -0400" channel="CARACOL">
+  <programme start="20190625170000 -0500" stop="20190625180000 -0500" channel="CARACOL">
     <title lang="es">Expediente final</title>
     <desc lang="es">En cada capítulo saldrá a la luz los secretos que hay detrás de la muerte de reconocidos personajes de Colombia y Latinoamérica como el humorista Jaime Garzón, el futbolista Andrés Escobar y el cantante Martín Elías(n)</desc>
     <credits>
@@ -271,7 +271,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9118719.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625180000 -0400" stop="20190625190000 -0400" channel="CARACOL">
+  <programme start="20190625180000 -0500" stop="20190625190000 -0500" channel="CARACOL">
     <title lang="es">Noticias 19:00 Caracol</title>
     <desc lang="es">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo(n)</desc>
     <credits>
@@ -282,24 +282,24 @@
     <date>2009</date>
     <category lang="es">Noticias</category>
     <category lang="es">Interés General</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4574868.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4574864.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625190000 -0400" stop="20190625200000 -0400" channel="CARACOL">
+  <programme start="20190625190000 -0500" stop="20190625200000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <category lang="es">Variedades</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625200000 -0400" stop="20190625210000 -0400" channel="CARACOL">
+  <programme start="20190625200000 -0500" stop="20190625210000 -0500" channel="CARACOL">
     <title lang="es">Desafío súper regiones</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <category lang="es">Interés General</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/660180.JPG" />
   </programme>
-  <programme start="20190625210000 -0400" stop="20190625213000 -0400" channel="CARACOL">
+  <programme start="20190625210000 -0500" stop="20190625213000 -0500" channel="CARACOL">
     <title lang="es">Última edición</title>
     <desc lang="es">Conoce a los personajes que hicieron la crónica del día, además de los temas más importantes de la jornada acompañados de un análisis que te ayudará a entender mejor la conversación nacional(n)</desc>
     <credits>
@@ -312,7 +312,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3328146.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625213000 -0400" stop="20190625220000 -0400" channel="CARACOL">
+  <programme start="20190625213000 -0500" stop="20190625220000 -0500" channel="CARACOL">
     <title lang="es">Polos opuestos</title>
     <desc lang="es">Este espacio abordará semanalmente temas relevantes de la actualidad, que más allá de la coyuntura les darán herramientas a los televidentes para que fijen su posición respecto al debate en cuestión, que será moderado bajo la experiencia y ecuanimidad de Noemí Sanín(n)</desc>
     <credits>
@@ -324,7 +324,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3286118.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625220000 -0400" stop="20190625223000 -0400" channel="CARACOL">
+  <programme start="20190625220000 -0500" stop="20190625223000 -0500" channel="CARACOL">
     <title lang="es">América 360º</title>
     <desc lang="es">Un recorrido por los hechos informativos más importantes ocurridos en América, con la conducción de Luis Carlos Vélez, donde podrás ser testigo de cada acontecimiento y de la búsqueda de la verdad directamente con los protagonistas(n)</desc>
     <credits>
@@ -335,7 +335,7 @@
     <category lang="es">Variedades</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625223000 -0400" stop="20190625230000 -0400" channel="CARACOL">
+  <programme start="20190625223000 -0500" stop="20190625230000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -350,7 +350,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625230000 -0400" stop="20190626000000 -0400" channel="CARACOL">
+  <programme start="20190625230000 -0500" stop="20190626000000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
