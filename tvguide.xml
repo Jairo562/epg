@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CARACOL">
+    <display-name lang="es">CARACOL</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/766833.gif" />
+    <url>http://www.reportvMulti.com.ar</url>
+  </channel>
+  <channel id="CANAL 13">
+    <display-name lang="es">CANAL 13</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/183110.gif" />
+    <url>http://www.reportvMulti.com.ar</url>
+  </channel>
+  <programme start="20190626000000 -0500" stop="20190626003000 -0500" channel="CARACOL">
+    <title lang="es">América 360º</title>
+    <desc lang="es">Un recorrido por los hechos informativos más importantes ocurridos en América, con la conducción de Luis Carlos Vélez, donde podrás ser testigo de cada acontecimiento y de la búsqueda de la verdad directamente con los protagonistas(n)</desc>
+    <credits>
+      <actor>Luis Carlos Vélez</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
+  </programme>
+  <programme start="20190626003000 -0500" stop="20190626010000 -0500" channel="CARACOL">
+    <title lang="es">El diario de Diana</title>
+    <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
+    <credits>
+      <director>Diana Álvarez</director>
+      <actor>Diana Álvarez</actor>
+      <actor>Helen Campillo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Noticias</category>
+    <category lang="es">Magazine
+ Transmisión:</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
+    <country>Colombia</country>
+  </programme>
+  <programme start="20190626010000 -0500" stop="20190626020000 -0500" channel="CARACOL">
+    <title lang="es">La selección</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <category lang="es">Variedades
+ Transmisión:</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
+  </programme>
+  <programme start="20190626003000 -0500" stop="20190626021500 -0500" channel="CANAL 13">
+    <title lang="es">Showmatch</title>
+    <desc lang="es">Temporada número 30 del gran show de la televisión argentina. Con el clásico segmento 'Bailando por un sueño' y el nuevo 'Genios de la Argentina'(n)</desc>
+    <credits>
+      <actor>Marcelo Tinelli</actor>
+      <actor>Florencia Peña</actor>
+      <actor>Marcelo Polino</actor>
+      <actor>Ángel De Brito</actor>
+      <actor>Carolina 'Pampita' Ardohain</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9411137.jpg" />
+    <country>Argentina</country>
+  </programme>
+</tv>
