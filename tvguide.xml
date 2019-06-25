@@ -10,7 +10,7 @@
     <icon src="http://181.30.4.186/buscador/img/Logos/183110.gif" />
     <url>http://www.reportvMulti.com.ar</url>
   </channel>
-  <programme start="20190625020000 -0500" stop="20190625030000 -0500" channel="CARACOL">
+  <programme start="20190624220000 -0500" stop="20190624230000 -0500" channel="CARACOL">
     <title lang="es">El rastro</title>
     <desc lang="es">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira. Relatos que darán a conocer la cara del crimen a través de los nervios y la tensión, así como el testimonio de los asesinos y un rostro real de quienes son capaces de cometer tan atroces actos(n)</desc>
     <credits>
@@ -24,7 +24,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1093997.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625030000 -0500" stop="20190625033000 -0500" channel="CARACOL">
+  <programme start="20190624230000 -0500" stop="20190624233000 -0500" channel="CARACOL">
     <title lang="es">Entérate</title>
     <desc lang="es">En cada emisión, Darío Arizmendi recibe a diversos invitados especiales para hablar sobre temas relacionados a las principales problemáticas presentes en Colombia y América Latina en general, tratando contenidos sobre política, economía, educación y muchos otros(n)</desc>
     <credits>
@@ -37,7 +37,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2641700.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625033000 -0500" stop="20190625040000 -0500" channel="CARACOL">
+  <programme start="20190624233000 -0500" stop="20190625000000 -0500" channel="CARACOL">
     <title lang="es">Caracol cine</title>
     <desc lang="es">Un espacio en el que los amantes del séptimo arte conocerán más información de su interés en secciones como Estrenos, Detrás de cámaras, Invitados de películas, Nuestra memoria, El Error de película y Cine tricolor, en la que se expondrán contenidos nacionales(n)</desc>
     <date>2000</date>
@@ -47,7 +47,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648686.JPG" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625040000 -0500" stop="20190625050000 -0500" channel="CARACOL">
+  <programme start="20190625000000 -0500" stop="20190625010000 -0500" channel="CARACOL">
     <title lang="es">Tu voz estéreo</title>
     <desc lang="es">Eespacio en el que convergen relatos de amor, de despecho, conflictos juveniles y familiares(n)</desc>
     <credits>
@@ -69,7 +69,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4520010.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625050000 -0500" stop="20190625053000 -0500" channel="CARACOL">
+  <programme start="20190625010000 -0500" stop="20190625013000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -84,7 +84,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625053000 -0500" stop="20190625060000 -0500" channel="CARACOL">
+  <programme start="20190625013000 -0500" stop="20190625020000 -0500" channel="CARACOL">
     <title lang="es">Testigo directo</title>
     <desc lang="es">Magazín periodístico independiente de crónicas y reportajes que se desarrollan principalmente en Colombia. Periodismo ameno de la más alta calidad con reportajes de nuestra región y personajes insólitos, positivos, divertidos que se encuentran a lo largo de todo el territorio nacional(n)</desc>
     <credits>
@@ -97,7 +97,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/686875.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625060000 -0500" stop="20190625061500 -0500" channel="CARACOL">
+  <programme start="20190625020000 -0500" stop="20190625021500 -0500" channel="CARACOL">
     <title lang="es">La finca de hoy</title>
     <desc lang="es">Todas las semanas te damos un paseo por la agricultura colombiana, conociendo la biodiversidad de sus suelos, técnicas de producción, razas de animales, y hasta cómo mantener un hermoso jardín en nuestras casas(n)</desc>
     <credits>
@@ -109,7 +109,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/239645.gif" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625061500 -0500" stop="20190625063000 -0500" channel="CARACOL">
+  <programme start="20190625021500 -0500" stop="20190625023000 -0500" channel="CARACOL">
     <title lang="es">Día a día I</title>
     <desc lang="es">Espacio para comenzar la jornada de una manera divertida y relajada. El hilo conductor es el optimismo que logra contagiar a todos aquellos que al encender su pantalla encuentran una alternativa de entretenimiento diferente(n)</desc>
     <credits>
@@ -130,7 +130,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/239603.gif" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625063000 -0500" stop="20190625093000 -0500" channel="CARACOL">
+  <programme start="20190625023000 -0500" stop="20190625053000 -0500" channel="CARACOL">
     <title lang="es">Noticias 5:30 Caracol</title>
     <desc lang="es">Lo último de la actualidad colombiana y mundial usted podrá conocer en esta edición informativa, con reportajes, notas exclusivas, entrevistas y comentarios de la mano de un equipo de profesionales(n)</desc>
     <date>2000</date>
@@ -139,7 +139,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4907960.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625093000 -0500" stop="20190625113000 -0500" channel="CARACOL">
+  <programme start="20190625053000 -0500" stop="20190625073000 -0500" channel="CARACOL">
     <title lang="es">Día a día II</title>
     <desc lang="es">Espacio para comenzar la jornada de una manera divertida y relajada. El hilo conductor es el optimismo que logra contagiar a todos aquellos que al prender el televisor encuentran una alternativa de entretenimiento diferente(n)</desc>
     <credits>
@@ -154,7 +154,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2680954.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625113000 -0500" stop="20190625120000 -0500" channel="CARACOL">
+  <programme start="20190625073000 -0500" stop="20190625080000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -168,7 +168,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625120000 -0500" stop="20190625130000 -0500" channel="CARACOL">
+  <programme start="20190625080000 -0500" stop="20190625090000 -0500" channel="CARACOL">
     <title lang="es">Tu voz estéreo</title>
     <desc lang="es">Eespacio en el que convergen relatos de amor, de despecho, conflictos juveniles y familiares(n)</desc>
     <credits>
@@ -189,7 +189,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4440967.JPG" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625130000 -0500" stop="20190625133000 -0500" channel="CARACOL">
+  <programme start="20190625090000 -0500" stop="20190625093000 -0500" channel="CARACOL">
     <title lang="es">¿Qué hay?</title>
     <desc lang="es">Un espacio que busca contar historias fuera de lo común desde diferentes partes del mundo como Japón, México, Chile, Estados Unidos y Colombia(n)</desc>
     <credits>
@@ -202,7 +202,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2978517.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625133000 -0500" stop="20190625160000 -0500" channel="CARACOL">
+  <programme start="20190625093000 -0500" stop="20190625120000 -0500" channel="CARACOL">
     <title lang="es">Noticias Caracol 12:30 p. m.</title>
     <desc lang="es">Espacio de carácter periodístico que muestra los acontecimientos en desarrollo, con reportes en vivo. Los presentadores interactúan con varias informaciones al mismo tiempo. Además, presenta una sección con lo más comentado en las redes sociales y de salud, así como detalles deportivos y de entretenimiento(n)</desc>
     <credits>
@@ -219,7 +219,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4338190.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625160000 -0500" stop="20190625170000 -0500" channel="CARACOL">
+  <programme start="20190625120000 -0500" stop="20190625130000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
@@ -227,7 +227,7 @@
  Transmisión:</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625170000 -0500" stop="20190625180000 -0500" channel="CARACOL">
+  <programme start="20190625130000 -0500" stop="20190625140000 -0500" channel="CARACOL">
     <title lang="es">El rastro</title>
     <desc lang="es">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira. Relatos que darán a conocer la cara del crimen a través de los nervios y la tensión, así como el testimonio de los asesinos y un rostro real de quienes son capaces de cometer tan atroces actos(n)</desc>
     <credits>
@@ -241,7 +241,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1093997.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625180000 -0500" stop="20190625183000 -0500" channel="CARACOL">
+  <programme start="20190625140000 -0500" stop="20190625143000 -0500" channel="CARACOL">
     <title lang="es">Caracol cine</title>
     <desc lang="es">Un espacio en el que los amantes del séptimo arte conocerán más información de su interés en secciones como Estrenos, Detrás de cámaras, Invitados de películas, Nuestra memoria, El Error de película y Cine tricolor, en la que se expondrán contenidos nacionales(n)</desc>
     <date>2000</date>
@@ -251,7 +251,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648686.JPG" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625183000 -0500" stop="20190625190000 -0500" channel="CARACOL">
+  <programme start="20190625143000 -0500" stop="20190625150000 -0500" channel="CARACOL">
     <title lang="es">Travesía</title>
     <desc lang="es">Producción llena de adrenalina, aventura y vértigo, que lo sacará de lo convencional y lo incitará a vivir emociones que lo llevarán al límite. Mediante esta producción conocerá gran parte de la geografía colombiana recorriendo todo tipo de destinos, desde los más apartados hasta los más paradisíacos. Recibirá una guía clara de las actividades que se pueden realizar y de las empresas que lo pueden llevar a vivir este tipo de experiencias. Además, lo acercará a una Colombia que tiene mucho por descubrir. Asimismo, recorrerá países de América en expediciones que muestran los lugares más importantes y representativos de cada cultura. Nuestros presentadores se encargarán de recrear las tradiciones, de mostrar la cara de los colombianos en otras partes del mundo y de vivir las mejores experiencias como visitantes en cada destino(n)</desc>
     <credits>
@@ -263,7 +263,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1086368.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625190000 -0500" stop="20190625200000 -0500" channel="CARACOL">
+  <programme start="20190625150000 -0500" stop="20190625160000 -0500" channel="CARACOL">
     <title lang="es">Expediente final</title>
     <desc lang="es">En cada capítulo saldrá a la luz los secretos que hay detrás de la muerte de reconocidos personajes de Colombia y Latinoamérica como el humorista Jaime Garzón, el futbolista Andrés Escobar y el cantante Martín Elías(n)</desc>
     <credits>
@@ -276,7 +276,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9118719.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625200000 -0500" stop="20190625210000 -0500" channel="CARACOL">
+  <programme start="20190625160000 -0500" stop="20190625170000 -0500" channel="CARACOL">
     <title lang="es">Noticias 19:00 Caracol</title>
     <desc lang="es">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo(n)</desc>
     <credits>
@@ -290,21 +290,21 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4574868.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625210000 -0500" stop="20190625220000 -0500" channel="CARACOL">
+  <programme start="20190625170000 -0500" stop="20190625180000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <category lang="es">Variedades</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625220000 -0500" stop="20190625230000 -0500" channel="CARACOL">
+  <programme start="20190625180000 -0500" stop="20190625190000 -0500" channel="CARACOL">
     <title lang="es">Desafío súper regiones</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <category lang="es">Interés General</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/660180.JPG" />
   </programme>
-  <programme start="20190625230000 -0500" stop="20190625233000 -0500" channel="CARACOL">
+  <programme start="20190625190000 -0500" stop="20190625193000 -0500" channel="CARACOL">
     <title lang="es">Última edición</title>
     <desc lang="es">Conoce a los personajes que hicieron la crónica del día, además de los temas más importantes de la jornada acompañados de un análisis que te ayudará a entender mejor la conversación nacional(n)</desc>
     <credits>
@@ -317,7 +317,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3328146.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190625233000 -0500" stop="20190626000000 -0500" channel="CARACOL">
+  <programme start="20190625193000 -0500" stop="20190625200000 -0500" channel="CARACOL">
     <title lang="es">Polos opuestos</title>
     <desc lang="es">Este espacio abordará semanalmente temas relevantes de la actualidad, que más allá de la coyuntura les darán herramientas a los televidentes para que fijen su posición respecto al debate en cuestión, que será moderado bajo la experiencia y ecuanimidad de Noemí Sanín(n)</desc>
     <credits>
@@ -329,7 +329,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3286118.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190626000000 -0500" stop="20190626003000 -0500" channel="CARACOL">
+  <programme start="20190625200000 -0500" stop="20190625203000 -0500" channel="CARACOL">
     <title lang="es">América 360º</title>
     <desc lang="es">Un recorrido por los hechos informativos más importantes ocurridos en América, con la conducción de Luis Carlos Vélez, donde podrás ser testigo de cada acontecimiento y de la búsqueda de la verdad directamente con los protagonistas(n)</desc>
     <credits>
@@ -340,7 +340,7 @@
     <category lang="es">Variedades</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190626003000 -0500" stop="20190626010000 -0500" channel="CARACOL">
+  <programme start="20190625203000 -0500" stop="20190625210000 -0500" channel="CARACOL">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Conducido por las periodistas Diana Patricia Álvarez y Helen Campillo, este espacio presenta diferentes secciones y entrevistas que buscan capturar al televidente por la variedad y el interés de cada una de ellas(n)</desc>
     <credits>
@@ -355,7 +355,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/647844.jpg" />
     <country>Colombia</country>
   </programme>
-  <programme start="20190626010000 -0500" stop="20190626020000 -0500" channel="CARACOL">
+  <programme start="20190625210000 -0500" stop="20190625220000 -0500" channel="CARACOL">
     <title lang="es">La selección</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
@@ -363,7 +363,7 @@
  Transmisión:</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/662177.JPG" />
   </programme>
-  <programme start="20190625021500 -0500" stop="20190625030000 -0500" channel="CANAL 13">
+  <programme start="20190624221500 -0500" stop="20190624230000 -0500" channel="CANAL 13">
     <title lang="es">Síntesis</title>
     <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes. Además, la cotización de los mercados y el dato económico que no hay que dejar pasar. Y 'la historia del día', una nota destacada con una mirada más profunda sobre la noticia más importante de la jornada que termina(n)</desc>
     <credits>
@@ -374,7 +374,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4920339.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625030000 -0500" stop="20190625031500 -0500" channel="CANAL 13">
+  <programme start="20190624230000 -0500" stop="20190624231500 -0500" channel="CANAL 13">
     <title lang="es">Cucinare</title>
     <desc lang="es">Si alguna vez soñaste con sorprender a tus invitados con riquísimos platos de cocina italiana, asiática o española. Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos(n)</desc>
     <credits>
@@ -386,13 +386,13 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4631896.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625031500 -0500" stop="20190625083000 -0500" channel="CANAL 13">
+  <programme start="20190624231500 -0500" stop="20190625043000 -0500" channel="CANAL 13">
     <title lang="es">Fin de transmisión</title>
     <date>2000</date>
     <category lang="es">Interés General</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2084810.jpg" />
   </programme>
-  <programme start="20190625083000 -0500" stop="20190625090000 -0500" channel="CANAL 13">
+  <programme start="20190625043000 -0500" stop="20190625050000 -0500" channel="CANAL 13">
     <title lang="es">Tiempo del tiempo</title>
     <desc lang="es">Este mininoticiero informa el estado del tiempo (temperatura, humedad, vientos, presión, estado del cielo) y de las condiciones presentes reportadas en distintos puntos de Capital Federal y Gran Buenos Aires, al mismo tiempo que en el resto de las ciudades del interior de Argentina. También se indicaban curiosidades y datos interesantes sobre la meteorología y sobre las Ciencias Naturales, con lo que el micro tuvo un leve tinte de divulgación científica(n)</desc>
     <credits>
@@ -404,7 +404,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2757311.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625090000 -0500" stop="20190625110000 -0500" channel="CANAL 13">
+  <programme start="20190625050000 -0500" stop="20190625070000 -0500" channel="CANAL 13">
     <title lang="es">Arriba argentinos</title>
     <desc lang="es">Bien temprano, un programa con toda la información para encarar la jornada bien informado(n)</desc>
     <credits>
@@ -418,7 +418,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3893664.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625110000 -0500" stop="20190625123000 -0500" channel="CANAL 13">
+  <programme start="20190625070000 -0500" stop="20190625083000 -0500" channel="CANAL 13">
     <title lang="es">Nosotros a la mañana</title>
     <desc lang="es">Con un alto perfil periodístico, se abordan temas de actualidad, economía, política, interés general y espectáculos, buscando llevar a la mesa de los argentinos la información más completa de manera distendida y descontracturada(n)</desc>
     <credits>
@@ -436,7 +436,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9432961.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625123000 -0500" stop="20190625140000 -0500" channel="CANAL 13">
+  <programme start="20190625083000 -0500" stop="20190625100000 -0500" channel="CANAL 13">
     <title lang="es">Los ángeles de la mañana</title>
     <desc lang="es">La información más completa del espectáculo y el abordaje de los temas preponderantes de la actualidad nacional, que marcan la agenda del día. Además, entrevistas en vivo, móviles, especiales, entretenimiento y la participación de destacadas figuras invitadas(n)</desc>
     <credits>
@@ -453,7 +453,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/6775385.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625140000 -0500" stop="20190625150000 -0500" channel="CANAL 13">
+  <programme start="20190625100000 -0500" stop="20190625110000 -0500" channel="CANAL 13">
     <title lang="es">El zorro</title>
     <desc lang="es">Montado en su corcel negro, el legendario Zorro lucha contra la injusticia y protege a los más débiles en la California española de principios del siglo XIX. Signando su presencia con la peculiar 'Z', grabada a punta de espada cuando la justicia se ha cumplido, el jinete enmascarado es el héroe de los oprimidos(n)</desc>
     <credits>
@@ -469,7 +469,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/1339108.jpg" />
     <country>EE. UU.</country>
   </programme>
-  <programme start="20190625150000 -0500" stop="20190625163000 -0500" channel="CANAL 13">
+  <programme start="20190625110000 -0500" stop="20190625123000 -0500" channel="CANAL 13">
     <title lang="es">Noticiero Trece</title>
     <desc lang="es">Toda la información en vivo y al instante. Además de seguir los hechos más relevantes, presenta secciones para disfrutar de un segmento con todos los temas que realmente interesan, como salud, deportes, jubilados, asuntos de familia, investigaciones policiales, nuestros chicos y espectáculos(n)</desc>
     <credits>
@@ -484,7 +484,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9305055.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625163000 -0500" stop="20190625180000 -0500" channel="CANAL 13">
+  <programme start="20190625123000 -0500" stop="20190625140000 -0500" channel="CANAL 13">
     <title lang="es">El diario de Mariana</title>
     <desc lang="es">Con su habitual simpatía, Mariana Fabbiani está al frente de este magazine dinámico y divertido, en el que se abordarán temas de actualidad y del espectáculo con información, análisis, entretenimiento y humor(n)</desc>
     <credits>
@@ -502,7 +502,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8795205.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625180000 -0500" stop="20190625191500 -0500" channel="CANAL 13">
+  <programme start="20190625140000 -0500" stop="20190625151500 -0500" channel="CANAL 13">
     <title lang="es">Corte y confección, colección 2019</title>
     <desc lang="es">Reality show dedicado al mundo de la moda que pone a prueba a 14 participantes. Buscamos al mejor talento entre amateurs, autodidactas, estudiantes y recibidos de carreras vinculadas con el diseño de indumentaria. Con desafíos diarios, modelos en vivo, consignas que pueden cambiar, tendrán que enfrentarse para poder ganar el premio que no sólo se trata de dinero en efectivo sino también una oportunidad dentro mundo de la moda más importante de la Argentina. Para la elección, el jurado - integrado por Benito Ferna´ndez, Vero´nica de la Canal y Fabia´n Zitta - evaluará los conocimientos en la materia, su creatividad, singularidad, empuje, su capacidad para evolucionar y adaptarse a las diferentes consignas. La jefa de taller será la estilista Matilda Blanco, y el diseñador Fabián Paz supervisará los desafi´os, además de cuestionar e interrogar a los 14 participantes mientras llevan a cabo sus trabajos. Deberán superar cada reto propuesto (que puede ser individual o grupal y, dependiendo de la dificultad, podrá extenderse por más de un día) para seguir avanzando en el juego: solo uno de ellos se convertirá en ganador. El jurado calificará los diseños con un puntaje del 1 al 10. Uno de los votos será secreto y se develará los días jueves. De esta manera, se sabrá qué dos participantes (con menos puntaje), irán el viernes al desafío final de eliminación. En esta instancia, Fernández, De la Canal y Zitta decidirán semanalmente quién se va y quién se queda. Por otra parte, también habrá un sistema de sirenas denominado �Alerta en el Taller�, que puede ser accionado por la conductora durante el desafío del día. Si la sirena suena, podrá modificarse la consigna dada. Contará además con un staff de modelos de distintos talles y estilos. Cada una de ellas trabajará con un participante en un desafío, y se les podrá cambiar el look, el peinado y el maquillaje(n)</desc>
     <credits>
@@ -518,7 +518,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8893714.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625191500 -0500" stop="20190625203000 -0500" channel="CANAL 13">
+  <programme start="20190625151500 -0500" stop="20190625163000 -0500" channel="CANAL 13">
     <title lang="es">El gran premio de la cocina</title>
     <desc lang="es">Todas las tardes, dieciseis cocineros amateurs se enfrentarán a distintas pruebas en las que tendrán que demostrar no solo su capacidad de inventiva y el dominio de la técnica, sino también la concentración, la seguridad y la serenidad para afrontar cada desafío que se les proponga. Además, deberán deslumbrar a un experto e implacable jurado. En una primera instancia se medirán en equipos, para luego poder destacarse individualmente. Solo uno de ellos podrá convertirse en el gran ganador del certamen, que se alzará con un importante premio(n)</desc>
     <credits>
@@ -532,7 +532,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/7967922.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625203000 -0500" stop="20190625220000 -0500" channel="CANAL 13">
+  <programme start="20190625163000 -0500" stop="20190625180000 -0500" channel="CANAL 13">
     <title lang="es">Pasapalabra</title>
     <sub-title lang="es">Ep.Agustín 'Rada' Aristarán, Rocío Robles, Gustavo Conti y Juan Marconi</sub-title>
     <desc lang="es">Segmento en el que se enfrentan dos equipos, integrados por un participante del público y dos famosos invitados. Ambos tríos deben responder distintas y variadas consignas propuestas por Iván De Pineda. La rapidez y la exactitud permiten a los grupos cosechar segundos que les son útiles en el gran juego final: El Rosco, una suerte de 'rueda abecedaria' que les exige a los concursantes acertar la palabra que se esconde tras las definiciones del diccionario de la Real Academia Española que expone Iván. Quien responda correctamente las veinticinco palabras asociadas a las letras del alfabeto, se alza con una importante suma de dinero, que en su fase inicial cuenta con un pozo de cien mil dólares(n)</desc>
@@ -544,7 +544,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2019784.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625220000 -0500" stop="20190625230000 -0500" channel="CANAL 13">
+  <programme start="20190625180000 -0500" stop="20190625190000 -0500" channel="CANAL 13">
     <title lang="es">Telenoche</title>
     <desc lang="es">Con la conducción de María Laura Santillán, junto a la participación de todo un equipo de profesionales, llega hasta ti este espacio informativo para mostrarte los principales acontecimientos de Argentina y el mundo(n)</desc>
     <credits>
@@ -564,7 +564,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/5595191.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625230000 -0500" stop="20190625233000 -0500" channel="CANAL 13">
+  <programme start="20190625190000 -0500" stop="20190625193000 -0500" channel="CANAL 13">
     <title lang="es">Otra noche familiar</title>
     <desc lang="es">Programa de juegos para divertirse en familia. Podrán mostrar su talento y participar de una novedosa competencia de preguntas y respuestas. Uno de los segmentos más destacados será 'El perro del millón': cada concursante deberá estimar el tiempo que tardará su mascota en recorrer los metros que separan el canil de la meta donde se encuentra toda la familia. ¡No será tarea sencilla! Habrá que tener en cuenta posibles distracciones del animal. Los segundos comenzarán a correr una vez que se invoque el nombre del perro. Por supuesto, también habrá un espacio para que participantes del público puedan demostrar su talento en alguna actividad en la que se destaquen, ya sea física, artística o intelectual. La �frutilla del postre� será el certamen de preguntas y respuestas, que estará totalmente remozado. La novedad radicará en que las preguntas serán dadas de antemano, para que los concursantes puedan estudiarlas. De esta manera, para ganar no hará falta ser el más inteligente, sino el más hábil para recordar y responder rápidamente cada interrogante propuesto. Los participantes que contesten correctamente, podrán ganar un viaje a un lugar paradisíaco. Pero, para los que equivoquen la respuesta, su destino será �¡el agua!(n)</desc>
     <credits>
@@ -575,7 +575,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8893742.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190625233000 -0500" stop="20190626003000 -0500" channel="CANAL 13">
+  <programme start="20190625193000 -0500" stop="20190625203000 -0500" channel="CANAL 13">
     <title lang="es">Argentina, tierra de amor y venganza</title>
     <desc lang="es">Dos amigos españoles se ven envueltos en el horror de la Guerra Civil de su país. Al salir con vida de ese infierno, su Nación se encuentra devastada por el conflicto bélico, pero la Argentina se vislumbra como el horizonte ideal para resurgir. Torcuato conseguirá allí involucrarse con los más aristocráticos de la sociedad, mientras que Bruno se verá perjudicado por la 'tierra prometida'. Para otros inmigrantes, en especial las mujeres, esta Nación que promete un futuro venturoso será la que las sucumba al peor de los calvarios. Una historia colmada de intriga, envidia, traición y engaño, pero que además rescata el amor verdadero, la pasión, el erotismo y, sobre todo, el empoderamiento femenino, en una época difícil en la que muchas mujeres eran consideradas mero objeto de disfrute(n)</desc>
     <credits>
@@ -606,7 +606,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8843386.jpg" />
     <country>Argentina</country>
   </programme>
-  <programme start="20190626003000 -0500" stop="20190626021500 -0500" channel="CANAL 13">
+  <programme start="20190625203000 -0500" stop="20190625221500 -0500" channel="CANAL 13">
     <title lang="es">Showmatch</title>
     <desc lang="es">Temporada número 30 del gran show de la televisión argentina. Con el clásico segmento 'Bailando por un sueño' y el nuevo 'Genios de la Argentina'(n)</desc>
     <credits>
