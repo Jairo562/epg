@@ -4,49 +4,6 @@
     <display-name lang="es">AZ CINEMA</display-name>
     <url>http://www.reportv.com.ar</url>
   </channel>
-  <programme start="20190625230000 -0500" stop="20190626003000 -0500" channel="AZ CINEMA">
-    <title lang="es">El Ceniciento</title>
-    <desc lang="es">Valentín llega a la Ciudad de México a hospedarse con unos paisanos, quienes tienen una familia numerosa. Marcelo lo recibe con gusto hasta que se da cuenta de su pobreza y lo echa de la casa. A sugerencia de Sirenia, este lo emplea como sirviente y lo explota sin piedad. Pero con la ayuda del sinvergüenza de Andrés, la suerte del visitante cobra un giro inesperado(n)</desc>
-    <credits>
-      <director>Gilberto Martínez Solares</director>
-      <actor>Germán 'Tin Tan' Valdés</actor>
-      <actor>Marcelo Chávez</actor>
-      <actor>Alicia Caro</actor>
-      <actor>Andrés Soler</actor>
-      <actor>Tito Novaro</actor>
-      <actor>Magda Donato</actor>
-      <actor>Elena Julián</actor>
-      <actor>Consuelo Pastor</actor>
-      <actor>Pedro de Aguillón</actor>
-      <actor>Acela Vidaurri</actor>
-      <actor>Armida Herrera</actor>
-      <actor>Armando Velasco</actor>
-      <actor>Graciela Peralta</actor>
-    </credits>
-    <date>1952</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Comedia</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
-    <country>México</country>
-  </programme>
-  <programme start="20190626003000 -0500" stop="20190626020000 -0500" channel="AZ CINEMA">
-    <title lang="es">La marca del zorrillo</title>
-    <desc lang="es">En la California de 1840, el bizco vizconde de Texmelucan ofrece una fiesta para recibir a su hijo Tin, quien regresa de Italia donde estuvo estudiando esgrima. El joven resulta ser un cobarde que huye despavorido tras negarse a batirse a duelo con el capitán Gaspar. En su huida, Tin rescata a una bruja que estaba atada a un árbol y ésta agradecida le regala un ungüento que lo hará invencible por una hora. Sin embargo, el cobarde espadachín tendrá tres oportunidades para usarlo y salvar a su padre de las injusticias del malvado gobernador Marcelo(n)</desc>
-    <credits>
-      <director>Gilberto Martínez Solares</director>
-      <actor>Germán 'Tin Tan' Valdés</actor>
-      <actor>Silvia Pinal</actor>
-      <actor>Rafael Alcayde</actor>
-      <actor>Rafael Banquells</actor>
-      <actor>Marcelo Chávez</actor>
-      <actor>Hortensia Constance</actor>
-    </credits>
-    <date>1950</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2866449.jpg" />
-    <country>México</country>
-  </programme>
   <programme start="20190626020000 -0500" stop="20190626033000 -0500" channel="AZ CINEMA">
     <title lang="es">El Ceniciento</title>
     <desc lang="es">Valentín llega a la Ciudad de México a hospedarse con unos paisanos, quienes tienen una familia numerosa. Marcelo lo recibe con gusto hasta que se da cuenta de su pobreza y lo echa de la casa. A sugerencia de Sirenia, este lo emplea como sirviente y lo explota sin piedad. Pero con la ayuda del sinvergüenza de Andrés, la suerte del visitante cobra un giro inesperado(n)</desc>
@@ -72,7 +29,50 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626033000 -0500" stop="20190626040000 -0500" channel="AZ CINEMA">
+  <programme start="20190626033000 -0500" stop="20190626050000 -0500" channel="AZ CINEMA">
+    <title lang="es">La marca del zorrillo</title>
+    <desc lang="es">En la California de 1840, el bizco vizconde de Texmelucan ofrece una fiesta para recibir a su hijo Tin, quien regresa de Italia donde estuvo estudiando esgrima. El joven resulta ser un cobarde que huye despavorido tras negarse a batirse a duelo con el capitán Gaspar. En su huida, Tin rescata a una bruja que estaba atada a un árbol y ésta agradecida le regala un ungüento que lo hará invencible por una hora. Sin embargo, el cobarde espadachín tendrá tres oportunidades para usarlo y salvar a su padre de las injusticias del malvado gobernador Marcelo(n)</desc>
+    <credits>
+      <director>Gilberto Martínez Solares</director>
+      <actor>Germán 'Tin Tan' Valdés</actor>
+      <actor>Silvia Pinal</actor>
+      <actor>Rafael Alcayde</actor>
+      <actor>Rafael Banquells</actor>
+      <actor>Marcelo Chávez</actor>
+      <actor>Hortensia Constance</actor>
+    </credits>
+    <date>1950</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2866449.jpg" />
+    <country>México</country>
+  </programme>
+  <programme start="20190626050000 -0500" stop="20190626063000 -0500" channel="AZ CINEMA">
+    <title lang="es">El Ceniciento</title>
+    <desc lang="es">Valentín llega a la Ciudad de México a hospedarse con unos paisanos, quienes tienen una familia numerosa. Marcelo lo recibe con gusto hasta que se da cuenta de su pobreza y lo echa de la casa. A sugerencia de Sirenia, este lo emplea como sirviente y lo explota sin piedad. Pero con la ayuda del sinvergüenza de Andrés, la suerte del visitante cobra un giro inesperado(n)</desc>
+    <credits>
+      <director>Gilberto Martínez Solares</director>
+      <actor>Germán 'Tin Tan' Valdés</actor>
+      <actor>Marcelo Chávez</actor>
+      <actor>Alicia Caro</actor>
+      <actor>Andrés Soler</actor>
+      <actor>Tito Novaro</actor>
+      <actor>Magda Donato</actor>
+      <actor>Elena Julián</actor>
+      <actor>Consuelo Pastor</actor>
+      <actor>Pedro de Aguillón</actor>
+      <actor>Acela Vidaurri</actor>
+      <actor>Armida Herrera</actor>
+      <actor>Armando Velasco</actor>
+      <actor>Graciela Peralta</actor>
+    </credits>
+    <date>1952</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
+    <country>México</country>
+  </programme>
+  <programme start="20190626063000 -0500" stop="20190626070000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -81,7 +81,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626040000 -0500" stop="20190626043000 -0500" channel="AZ CINEMA">
+  <programme start="20190626070000 -0500" stop="20190626073000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -90,7 +90,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626043000 -0500" stop="20190626060000 -0500" channel="AZ CINEMA">
+  <programme start="20190626073000 -0500" stop="20190626090000 -0500" channel="AZ CINEMA">
     <title lang="es">La cabeza viviente</title>
     <desc lang="es">Un grupo de arqueólogos, liderados por el profesor Mueller, hallan la tumba de Acatl, un antiguo guerrero azteca, donde encuentran los restos momificados de Xochiquetzal. Pero la cabeza del arcaico guerrero, que está perfectamente conservada, intentará castigar a los sacrílegos académicos(n)</desc>
     <credits>
@@ -111,7 +111,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3313849.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626060000 -0500" stop="20190626073000 -0500" channel="AZ CINEMA">
+  <programme start="20190626090000 -0500" stop="20190626103000 -0500" channel="AZ CINEMA">
     <title lang="es">Yo quiero ser mala</title>
     <desc lang="es">Una mujer, furiosa tras enterarse de que su pareja la ha engañado, quiero convertirse en un ser malvado(n)</desc>
     <credits>
@@ -138,7 +138,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4204431.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626073000 -0500" stop="20190626080000 -0500" channel="AZ CINEMA">
+  <programme start="20190626103000 -0500" stop="20190626110000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -147,7 +147,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626080000 -0500" stop="20190626093000 -0500" channel="AZ CINEMA">
+  <programme start="20190626110000 -0500" stop="20190626123000 -0500" channel="AZ CINEMA">
     <title lang="es">Me gustan todas</title>
     <desc lang="es">Don Nicanor, un adinerado hombre de negocios decide ir en busca de Rosita, su hija perdida y de la que lo único que sabe es que radica en La Habana; con este fin, contrata a un par de detectives para que den con su paradero; sin embargo, los agentes tienen otras intenciones y elaboran un plan para estafar a Don Nicanor. ¿Lograrán estos dos tipos deshonestos salirse con la suya?(n)</desc>
     <credits>
@@ -162,7 +162,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626093000 -0500" stop="20190626110000 -0500" channel="AZ CINEMA">
+  <programme start="20190626123000 -0500" stop="20190626140000 -0500" channel="AZ CINEMA">
     <title lang="es">Siete Evas para un Adán</title>
     <desc lang="es">Un joven mujeriego se aísla en un lugar desértico donde hay siete mujeres muy diferentes entre sí que lo tratan como si fuera su esclavo. A cada una le cuenta mentiras acerca de su vida con la intención de conquistarlas(n)</desc>
     <credits>
@@ -189,7 +189,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626110000 -0500" stop="20190626113000 -0500" channel="AZ CINEMA">
+  <programme start="20190626140000 -0500" stop="20190626143000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -198,7 +198,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626113000 -0500" stop="20190626130000 -0500" channel="AZ CINEMA">
+  <programme start="20190626143000 -0500" stop="20190626160000 -0500" channel="AZ CINEMA">
     <title lang="es">La cabeza viviente</title>
     <desc lang="es">Un grupo de arqueólogos, liderados por el profesor Mueller, hallan la tumba de Acatl, un antiguo guerrero azteca, donde encuentran los restos momificados de Xochiquetzal. Pero la cabeza del arcaico guerrero, que está perfectamente conservada, intentará castigar a los sacrílegos académicos(n)</desc>
     <credits>
@@ -219,7 +219,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3313853.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626130000 -0500" stop="20190626143000 -0500" channel="AZ CINEMA">
+  <programme start="20190626160000 -0500" stop="20190626173000 -0500" channel="AZ CINEMA">
     <title lang="es">Yo quiero ser mala</title>
     <desc lang="es">Una mujer, furiosa tras enterarse de que su pareja la ha engañado, quiero convertirse en un ser malvado(n)</desc>
     <credits>
@@ -246,7 +246,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4204431.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626143000 -0500" stop="20190626150000 -0500" channel="AZ CINEMA">
+  <programme start="20190626173000 -0500" stop="20190626180000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -255,7 +255,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626150000 -0500" stop="20190626163000 -0500" channel="AZ CINEMA">
+  <programme start="20190626180000 -0500" stop="20190626193000 -0500" channel="AZ CINEMA">
     <title lang="es">Me gustan todas</title>
     <desc lang="es">Don Nicanor, un adinerado hombre de negocios decide ir en busca de Rosita, su hija perdida y de la que lo único que sabe es que radica en La Habana; con este fin, contrata a un par de detectives para que den con su paradero; sin embargo, los agentes tienen otras intenciones y elaboran un plan para estafar a Don Nicanor. ¿Lograrán estos dos tipos deshonestos salirse con la suya?(n)</desc>
     <credits>
@@ -270,7 +270,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626163000 -0500" stop="20190626180000 -0500" channel="AZ CINEMA">
+  <programme start="20190626193000 -0500" stop="20190626210000 -0500" channel="AZ CINEMA">
     <title lang="es">Siete Evas para un Adán</title>
     <desc lang="es">Un joven mujeriego se aísla en un lugar desértico donde hay siete mujeres muy diferentes entre sí que lo tratan como si fuera su esclavo. A cada una le cuenta mentiras acerca de su vida con la intención de conquistarlas(n)</desc>
     <credits>
@@ -297,7 +297,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/651824.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626180000 -0500" stop="20190626183000 -0500" channel="AZ CINEMA">
+  <programme start="20190626210000 -0500" stop="20190626213000 -0500" channel="AZ CINEMA">
     <title lang="es">Intermedio AZ Cinema</title>
     <desc lang="es">Disfruta en este segmento de lo mejor de la cinematografía mexicana y mundial, con los films más taquilleros en géneros como aventura, acción, terror, drama, suspenso y comedia, para que estés al día con el séptimo arte(n)</desc>
     <date>2015</date>
@@ -306,7 +306,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/2896499.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626183000 -0500" stop="20190626200000 -0500" channel="AZ CINEMA">
+  <programme start="20190626213000 -0500" stop="20190626230000 -0500" channel="AZ CINEMA">
     <title lang="es">La cabeza viviente</title>
     <desc lang="es">Un grupo de arqueólogos, liderados por el profesor Mueller, hallan la tumba de Acatl, un antiguo guerrero azteca, donde encuentran los restos momificados de Xochiquetzal. Pero la cabeza del arcaico guerrero, que está perfectamente conservada, intentará castigar a los sacrílegos académicos(n)</desc>
     <credits>
@@ -327,7 +327,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/3313849.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626200000 -0500" stop="20190626213000 -0500" channel="AZ CINEMA">
+  <programme start="20190626230000 -0500" stop="20190627003000 -0500" channel="AZ CINEMA">
     <title lang="es">Yo quiero ser mala</title>
     <desc lang="es">Una mujer, furiosa tras enterarse de que su pareja la ha engañado, quiero convertirse en un ser malvado(n)</desc>
     <credits>
@@ -354,7 +354,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4204431.jpg" />
     <country>México</country>
   </programme>
-  <programme start="20190626213000 -0500" stop="20190626230000 -0500" channel="AZ CINEMA">
+  <programme start="20190627003000 -0500" stop="20190627020000 -0500" channel="AZ CINEMA">
     <title lang="es">Me gustan todas</title>
     <desc lang="es">Don Nicanor, un adinerado hombre de negocios decide ir en busca de Rosita, su hija perdida y de la que lo único que sabe es que radica en La Habana; con este fin, contrata a un par de detectives para que den con su paradero; sin embargo, los agentes tienen otras intenciones y elaboran un plan para estafar a Don Nicanor. ¿Lograrán estos dos tipos deshonestos salirse con la suya?(n)</desc>
     <credits>
